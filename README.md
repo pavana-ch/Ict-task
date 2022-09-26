@@ -1,5 +1,5 @@
 # Ict-task
 
-Please find the link to the app.
+To access the app, Please click on the following link
 
 https://sample-tts.herokuapp.com
