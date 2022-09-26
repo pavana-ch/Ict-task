@@ -1,10 +1,7 @@
 from flask import Flask,render_template,request,redirect
 from flask import send_file
 from gtts import gTTS
-from io import BytesIO
-from pygame import mixer
-import time
- 
+
 app = Flask(__name__)
  
 @app.route("/")
